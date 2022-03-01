@@ -129,6 +129,6 @@ Blend Tool (5), 3 sliders (rgb) will form a color displayed a unique preview cir
 
 Erol Gelbul - [Website](erolgelbul.com) - erolgelbul@gmail.com
 
-Project Link: [Graphing Calculator](https://github.com/ErolGelbul/interactive_painting_program)
+Project Link: [Painting Program](https://github.com/ErolGelbul/interactive_painting_program)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
