@@ -120,7 +120,7 @@ Blend Tool (5), 3 sliders (rgb) will form a color displayed a unique preview cir
 <!-- CONTACT -->
 ## Contact
 
-Erol Gelbul - [My Website](erolgelbul.com) - erolgelbul@gmail.com
+Erol Gelbul - [My Website](http://www.erolgelbul.com) - erolgelbul@gmail.com
 
 Project Link: [Painting Program](https://github.com/ErolGelbul/interactive_painting_program)
 
